@@ -14,6 +14,8 @@ Welcome to my Github page! I am a backend developer who enjoys tinkering with va
 
 #### :computer: Programming languages and tools: 
 <p>
+ <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=plumsun&show_icons=true&hide_border=true" />
+ 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
@@ -23,5 +25,3 @@ Welcome to my Github page! I am a backend developer who enjoys tinkering with va
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
-<sub>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plumsun" alt="Top Langs" style="zoom:50" /></sub>
