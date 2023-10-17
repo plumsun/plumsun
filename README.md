@@ -1,26 +1,35 @@
-### Hi there 👋 
-### This is PlumSun
+### 闲敲棋子落灯花
+
  
+
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/plumsun)
+
 [![Gitee](https://img.shields.io/badge/-Gitee-c14438?style=flat&logo=Gitee&logoColor=white)](https://gitee.com/Plumsun)
- 
-Welcome to my Github page! I am a backend developer who enjoys tinkering with various technologies and am currently self-learning the Go language!
 
-#### 🌱 Things I am currently working on: 
-- Learning new knowledge to improve one's own abilities
-- Improve various unexpected ideas
-- Find a suitable job
-- Maintain a good mood and protect your body
+20年无名学校毕业，软件技术，年少时也是心比天高。现在一生清风，祈尽得仁爱孝，平平淡淡，一路无恙。
 
-#### :computer: Programming languages and tools: 
+
+
+#### **🌱 现在的目标:** 
+
+- 捣鼓其他语言，完善下奇思妙想
+
+- 一个好心情，一个好身体
+
+- 找个工作养活自己。
+
+
+
+#### **:computer:** **擅长技术:** 
+
 <p>
+
  <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=plumsun&show_icons=true&hide_border=true" />
- 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
-<br />
+<br/>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache/apache-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
