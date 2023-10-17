@@ -24,4 +24,4 @@ Welcome to my Github page! I am a backend developer who enjoys tinkering with va
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
 <sub>
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plumsun" alt="Top Langs" style="zoom:50" />]</sub>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plumsun" alt="Top Langs" style="zoom:50" /></sub>
