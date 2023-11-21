@@ -3,7 +3,7 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/plumsun)[![Gitee](https://img.shields.io/badge/-Gitee-c14438?style=flat&logo=Gitee&logoColor=white)](https://gitee.com/Plumsun)
 
 
-20年无名学校毕业，软件技术，年少时也是心比天高。现在一生清风，祈尽得仁爱孝，平平淡淡，一路无恙。
+20年无名学校毕业不知名开发。
 
 
 
